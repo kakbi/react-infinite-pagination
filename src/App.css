@@ -47,9 +47,3 @@ body {
     min-height: 200px;
     object-fit: cover;
 }
-
-.loading-marker {
-    color: #7f8c8d;
-    padding: 20px;
-    font-style: italic;
-}
